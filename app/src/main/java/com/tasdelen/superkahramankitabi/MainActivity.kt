@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         val superHeroNames : ArrayList<String> = arrayListOf<String>(
             "Batman","Batgirl","Black Widow","Cat Woman","Spider Man"
         )
+
         val superHeroPhotos : ArrayList<Int> = arrayListOf<Int>(
             R.drawable.batman, R.drawable.batgirl,
             R.drawable.blackwidow, R.drawable.catwoman,
